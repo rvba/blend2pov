@@ -1,7 +1,6 @@
 //rcruiz&karpov
 /*
 TODO
-rgbft
 */
 
 #include "BLI_arithb.h"
